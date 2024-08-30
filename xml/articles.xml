@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+    <article id="1">
+        <title>Welcome to the CMS</title>
+        <content>This is your first article. You can edit or delete it.</content>
+        <author>Admin</author>
+    </article>
+</articles>
